@@ -19,4 +19,8 @@ angular.module('app.controllers', [])
 .controller('signupCtrl', function($scope) {
 
 })
+   
+.controller('contactUsCtrl', function($scope) {
+
+})
  
